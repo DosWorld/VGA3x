@@ -1,6 +1,6 @@
 # VGA3x
 
-       Here are two resident programs that allow forcibly set VGA adapters
+Here are two resident programs that allow forcibly set VGA adapters
 to 30-line mode when trying to install via BIOS 2nd or 3rd video mode.
 
 VGA3x - checks the video mode setting, and if the 2nd or 3rd one is set,
@@ -22,7 +22,13 @@ I am not author, just translate to english and Nasm. :)
 
 Original author:
 
-Vadim V.Belman,
-Dniepropetrovsk,
-Work phone : (0562)448-158
-Network 2:464/20.4@fidonet
+   Vadim V.Belman,
+   Dniepropetrovsk,
+   Work phone : (0562)448-158
+   Network 2:464/20.4@fidonet
+
+
+
+
+
+
