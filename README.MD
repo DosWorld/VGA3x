@@ -22,10 +22,10 @@ I am not author, just translate to english and Nasm. :)
 
 Original author:
 
-   Vadim V.Belman,
-   Dniepropetrovsk,
-   Work phone : (0562)448-158
-   Network 2:464/20.4@fidonet
+     Vadim V.Belman,
+     Dniepropetrovsk,
+     Work phone : (0562)448-158
+     Network 2:464/20.4@fidonet
 
 
 
